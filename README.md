@@ -4,4 +4,4 @@ This repository contains my homework assignments for the **Pattern Recognition (
 
 ## Contents
 
-- **homework1/** to **homeworkN/**: Homework Assignments with both theoretical and practical components.
+ Homework Assignments with both theoretical and practical components.
