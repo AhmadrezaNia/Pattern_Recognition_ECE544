@@ -1,1 +1,7 @@
-# Pattern_Recognition_ECE544
+# # Pattern Recognition (ECE 544) - Homework
+
+This repository contains my homework assignments for the **Pattern Recognition (ECE 544)** course. The assignments consist of both theoretical questions and practical implementations done in Python.
+
+## Contents
+
+- **homework1/** to **homeworkN/**: Homework Assignments with both theoretical and practical components.
